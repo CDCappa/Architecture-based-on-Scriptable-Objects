@@ -1,4 +1,4 @@
-# Feature/event system #1
+# Feature/Event System PR #1
 
 ## Description
 This pull request introduces an Event System using Scriptable Objects in Unity. It consists of three main scripts: EventEditor.cs, GameEvent.cs, and GameEventListener.cs. 
@@ -27,7 +27,7 @@ The GameEventListener MonoBehaviour listens to a specific GameEvent and invokes 
 - Ensure all necessary scripts are properly placed in their respective folders.
 - Double-check references between GameEvent and GameEventListener components for proper event handling.
 
-# Feature/brain behaviors #2
+# Feature/brain behaviors PR #2
 
 ## Description
 This pull request introduces a new Brain abstract class in the Brains.SO namespace. The Brain class is designed to manage coroutines and behaviors for Unity entities through Scriptable Objects. It provides functionality for starting, stopping, and handling entity behaviors within coroutines.
@@ -49,7 +49,7 @@ This pull request introduces a new Brain abstract class in the Brains.SO namespa
 - Ensure proper initialization and cleanup of behaviors within the Brain class.
 - Utilize the provided methods to manage entity behaviors effectively.
 
-# Demo/Brain behaviors #3
+# Demo/Brain Behaviors PR #3
 
 ## Description
 This pull request introduces a flexible and modular Continuous Rotator system in Unity, designed for rotating game objects around a central point with customizable parameters. The system leverages ScriptableObject-based brains to define different behaviors, enhancing reusability and maintainability. Additionally, an event-driven mechanism using ScriptableObjects is implemented for controlling the rotator's behavior.
