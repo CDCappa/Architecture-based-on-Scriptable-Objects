@@ -1,3 +1,6 @@
+# About
+This repository demonstrates the benefits of an architecture that integrates Scriptable Objects. Specifically, it emphasizes modularity and decoupling, ensuring robustness, separation of concerns, scalability, flexibility, maintainability, and reduced risk when distributing tasks within a team.
+
 # Feature/Event System PR #1
 
 ## Description
