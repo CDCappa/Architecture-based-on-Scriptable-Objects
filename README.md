@@ -119,5 +119,3 @@ The FlowController script raises events based on user input:
 - Reusability: Brains can be reused across different rotators, and events can be used by various game components.
 - Decoupling: The event-driven approach reduces direct dependencies between game objects, enhancing flexibility and maintainability.
 - Ease of Testing: Custom editors and event systems facilitate testing and debugging directly within the Unity Editor.
-## Conclusion
-This Continuous Rotator system provides a robust and flexible framework for implementing complex rotation behaviors in Unity. By leveraging ScriptableObjects and an event-driven architecture, the system ensures high modularity, reusability, and maintainability, making it a valuable addition to any Unity project.
